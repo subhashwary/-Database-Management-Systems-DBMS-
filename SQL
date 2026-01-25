@@ -1,1 +1,4 @@
 MySQL
+
+Basic Queries
+SELECT: Retrieves data from one or more tables.
