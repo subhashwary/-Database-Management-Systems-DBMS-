@@ -5,4 +5,6 @@ Basic Queries
 SELECT: Retrieves data from one or more tables.
 SELECT column1, column2 FROM table_name WHERE condition;
 
+INSERT: Adds new records to a table.
+INSERT INTO table_name (col1, col2) VALUES (val1, val2);
 
